@@ -9,7 +9,7 @@ services:
     volumes:
       - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
     volumes:
-      - php
+      - php:/var/www/html
   php:
     build: ./docker/php/
     volumes:
