@@ -12,8 +12,6 @@ git clone https://github.com/cesarcuellardussan/nativapps.git
 
 Accede al directorio del proyecto.
 
-cd medical-patients-api
-
 Ejecuta los siguientes comandos para construir e iniciar la API.
 
 sudo docker-compose build
