@@ -1,8 +1,10 @@
-#Despliegue de la API Médica de Pacientes
+
+
+# Despliegue de la API Médica de Pacientes
 
 Este documento describe cómo desplegar la API Médica de Pacientes en una máquina con Docker y Docker Compose instalados, o en una máquina con Laragon instalado.
 
-Opción 1: Con Docker Compose
+## Opción 1: Con Docker Compose
 
 Clona el proyecto en una máquina que tenga Docker y Docker Compose instalados.
 
@@ -44,7 +46,7 @@ sudo docker-compose restart
 
 Una vez que hayas completado estos pasos, la API estará disponible en la dirección IP de tu máquina en el puerto 80.
 
-Opción 2: Con Laragon
+## Opción 2: Con Laragon
 
 Descarga e instala Laragon.
 
