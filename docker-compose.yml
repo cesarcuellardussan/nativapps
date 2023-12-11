@@ -33,3 +33,5 @@ services:
           - ./dbdata:/var/lib/mysql
         ports:
           - "33065:3306"
+volumes:
+  php:
