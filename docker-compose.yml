@@ -36,6 +36,3 @@ services:
 volumes:
     php:
       driver: local
-      chown:
-        owner: www-data
-        group: www-data
