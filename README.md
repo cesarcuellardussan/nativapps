@@ -5,7 +5,7 @@ Este documento describe cómo desplegar la API Médica de Pacientes en una máqu
 Opción 1: Con Docker Compose
 
 Clona el proyecto en una máquina que tenga Docker y Docker Compose instalados.
-git clone https://github.com/natiapps/medical-patients-api.git
+git clone https://github.com/cesarcuellardussan/nativapps.git
 Accede al directorio del proyecto.
 cd medical-patients-api
 Ejecuta los siguientes comandos para construir e iniciar la API.
@@ -32,7 +32,7 @@ Descarga e instala Laragon.
 
 Clona el proyecto en la carpeta www de Laragon.
 
-git clone https://github.com/natiapps/medical-patients-api.git
+git clone https://github.com/cesarcuellardussan/nativapps.git
 Instala PHP 8.1.10.
 
 Dentro del proyecto raiz de la carpeta llamada medical-patients-api ejecuta los siguientes comandos:
